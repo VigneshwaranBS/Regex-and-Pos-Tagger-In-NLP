@@ -1,4 +1,4 @@
-# Regex and POS Tagger in NLP
+# Regex and POS Tagger in Natural Processing Language
 - This repository contains code for performing linguistic analysis on natural language text using regular expressions and part-of-speech (POS) tagging. The code is written in Python and can be used to extract specific patterns or tags from text corpora.
 
 ## Getting Started
